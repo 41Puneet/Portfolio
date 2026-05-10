@@ -22,7 +22,7 @@ import {
   X,
 } from 'lucide-react';
 import { useState } from 'react';
-import resumeImage from '../Puneet_resume.jpeg';
+import resumeImage from '../Puneet__Resume.pdf';
 
 const profile = {
   name: 'Puneet Agnihotri',
@@ -31,7 +31,7 @@ const profile = {
   email: 'puneetagnihotri1616@gmail.com',
   phone: '+91 9555012460',
   github: 'https://github.com/41Puneet',
-  linkedin: 'https://linkedin.com/in/',
+  linkedin: 'https://www.linkedin.com/in/puneetagnihotri4141',
   leetcode: 'https://leetcode.com/u/41puneet/',
   resume: resumeImage,
   summary:
